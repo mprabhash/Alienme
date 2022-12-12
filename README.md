@@ -74,27 +74,6 @@
 </p>
 
 
-<!-- BEGIN CONNECT4 BOARD -->
-
-<details>
-  <summary>Last 5 moves in this game</summary>
-<!-- BEGIN LAST MOVES2 -->
-
-| Move | Author |
-| :--: | :----- |
-| `4` |  [ @trinib](https://github.com/trinib) | |
-| `Start game` |  [ @trinib](https://github.com/trinib) | |
-
-<!-- END LAST MOVES2 -->
-</details>
-
-<details>
-  <summary>Top 10 most moves across all games</summary>
-<!-- BEGIN TOP MOVES2 -->
-
-| Total moves |  User  |
-| :---------: | :----- |
-| 1 |  [@trinib](https://github.com/trinib) | |
 
 <!-- END TOP MOVES2 -->
 </details>
