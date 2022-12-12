@@ -5,10 +5,6 @@
 <p align="center">
 <img src="https://media.giphy.com/media/QLKSt3wQqlj7a/giphy.gif">
 <!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
-<!--🖼️ILOVEOPENSOURCE-->
-<img src="https://i.imgur.com/AZa5yxa.png" height="120" width="600">
-<!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
 <p align="center">
 <img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300">
 <!--🦜PARROTSEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
@@ -50,7 +46,7 @@
 @@     | |"| |                                         @@
 @@     ( ) ( )   Testing leads to failure              @@
 @@     |_| |_|   and failure leads to understanding    @@
-@@ _.-' _j L_ '-._                                     @@
+@@ _.-' _j L_ '-._     _Milindu Prabhash_              @@
 @@(___.'     '.___)                                    @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 ```
